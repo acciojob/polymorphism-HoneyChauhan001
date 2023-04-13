@@ -1,10 +1,6 @@
 package com.driver;
 
-//public class Product{
-//    public int product(int x, int y){
-//
-//    }
-//}
+
 public class Main {
 
     public static class Product{
